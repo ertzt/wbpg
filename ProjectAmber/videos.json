@@ -1,0 +1,28 @@
+{
+    "videos": [
+        {
+            "anime": "Naruto",
+            "title": "naruto ep1",
+            "url": "https://dn720404.ca.archive.org/0/items/naruto_202202/a04f616c.mp4",
+            "description": "First naruto episode!"
+        },
+        {
+            "anime": "Naruto",
+            "title": "naruto ep2",
+            "url": "https://ia804508.us.archive.org/24/items/naruto-ep-002-ita/Naruto_Ep_002_ITA.mp4",
+            "description": "Second naruto episode!"
+        },
+        {
+            "anime": "Bleach",
+            "title": "bleach ep1",
+            "url": "https://ia802304.us.archive.org/21/items/bleach-complete/Bleach/S01/Bleach%20-%20S01E01.mp4",
+            "description": "First bleach episode!"
+        },
+        {
+            "anime": "Bleach",
+            "title": "bleach ep2",
+            "url": "https://ia802304.us.archive.org/21/items/bleach-complete/Bleach/S01/Bleach%20-%20S01E02.mp4",
+            "description": "Second bleach episode!"
+        }
+    ]
+}

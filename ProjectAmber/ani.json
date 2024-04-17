@@ -1,0 +1,14 @@
+[
+    {
+        "name" : "Naruto",
+        "episodes" : "220",
+        "cover" : "naruto.jpg",
+        "id" : 1 
+    },
+    {
+        "name" : "Bleach",
+        "episodes" : "364",
+        "cover" : "bleach.jpg",
+        "id": 2
+    }
+]
