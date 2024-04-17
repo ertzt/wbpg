@@ -1,0 +1,28 @@
+.ani img {
+    width: 100%;
+    height: auto;
+    max-height: 600px;
+    object-fit: cover;
+}
+
+/* Define a class to size the video player container */
+.video-player-container {
+    width: 600px; /* Adjust width as needed */
+    height: 400px; /* Adjust height as needed */
+    position: relative;
+}
+
+/* Define styles for the video player */
+.video-player {
+    width: 100%;
+    height: 100%;
+}
+/* Add this CSS to resize the covers */
+.cover-img {
+    max-width: 300px; /* Adjust the maximum width as needed */
+    height: auto;
+}
+
+
+
+
